@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on New Linux User</title>
+    <link>https://new-linux-user.streamers.city/blog/</link>
+    <description>Recent content in Blogs on New Linux User</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux commands for dummies</title>
+      <link>https://new-linux-user.streamers.city/blog/linux_commands_for_dummies/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/blog/linux_commands_for_dummies/</guid>
+      <description>Introduction Linux is a versatile operating system embraced by users ranging from new learners to seasoned professionals. For beginners, mastering the command line interface (CLI) is a pivotal step towards harnessing the full potential of Linux. This article introduces the most fundamental and crucial Linux commands that every novice should learn. Navigating the File System ** pwd (Print Working Directory). Displays the current directory path.
+ls (List) Lists files and directories.</description>
+    </item>
+    
+    <item>
+      <title>Emacs Exports to PDF</title>
+      <link>https://new-linux-user.streamers.city/blog/org_mode_export/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/blog/org_mode_export/</guid>
+      <description>Doom Emacs After hearing about Emacs for some time, I began using it last year. Initially, I hesitated due to its steep learning curve and the time investment it required. However, the challenge has been quite rewarding. Emacs has revolutionized my daily computer interactions. Although I used to rely heavily on the mouse, Emacs has shifted my workflow to be more keyboard-centric, enhancing my overall experience.
+The standout feature for me is Org-mode, which has significantly improved my productivity.</description>
+    </item>
+    
+    <item>
+      <title>Mautic install Proxmox</title>
+      <link>https://new-linux-user.streamers.city/blog/mautic/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/blog/mautic/</guid>
+      <description> Proxmox Alpine container
+Docker and Docker-Compose Run the following commands one at a time.
+$ apk add docker.io docker-compose $ rc-update add docker boot $ service docker start Docker-Compose Template Access your new Mautic http://localhost:8893
+version: &amp;#34;3.9&amp;#34; services: database: image: mariadb:latest container_name: mautic-db environment: MYSQL_ROOT_PASSWORD: =password= ports: - &amp;#34;3306:3306&amp;#34; volumes: - database:/var/lib/mysql:rw restart: always networks: - mauticnet command: --character-set-server=utf8mb4 --collation-server=utf8mb4_general_ci --sql-mode=&amp;#34;&amp;#34; mautic: container_name: mautic image: mautic/mautic:v4-apache volumes: - mautic_data:/var/www/html:rw environment: - MAUTIC_DB_HOST=database - MAUTIC_DB_USER=root - MAUTIC_DB_PASSWORD= =passsword= - MAUTIC_DB_NAME=mautic4 - MAUTIC_DB_TABLE_PREFIX=mautic4 restart: always depends_on: - database links: - database networks: - mauticnet ports: - &amp;#34;8888:80&amp;#34; networks: mauticnet: volumes: database: mautic_data: </description>
+    </item>
+    
+    <item>
+      <title>Doom Emacs</title>
+      <link>https://new-linux-user.streamers.city/blog/emacs/</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/blog/emacs/</guid>
+      <description>Introduction This is my first blog about Emacs, It has been quite a challenge for me like everything in Linux. Since I moved from Windows OS for good, I&amp;#39;ve experienced a lot of trouble on Linux. I started with Manjaro (a very bad choice to start experimenting) and it was a mess, it was 2016 and I hardly found documentation, tutorials or any help about Manjaro. The reason I choose Manjaro was about ego, looking information about Linux in YouTube in the first video I watched the guy was using Manjaro and said that Manjaro was for smart people and was bashing Ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Home Assistant vs. Amazon&#39;s Alexa</title>
+      <link>https://new-linux-user.streamers.city/blog/home_assistant_vs_alexa/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/blog/home_assistant_vs_alexa/</guid>
+      <description>Home Assistant and Alexa are both popular smart home platforms, but they serve different purposes and have distinct features and capabilities. Here&amp;#39;s a comparison of the two:
+Purpose: Home Assistant: Home Assistant is an open-source home automation platform that allows you to control and automate various smart devices and services in your home. It is highly customizable and designed for users who want fine-grained control over their smart home setup.</description>
+    </item>
+    
+    <item>
+      <title>Embracing Linux: Unveiling the Best Attributes for Your Computing Needs</title>
+      <link>https://new-linux-user.streamers.city/blog/linux_vs_windowsos/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/blog/linux_vs_windowsos/</guid>
+      <description>Are you tired of the constant battle between Windows and macOS users, each proclaiming the superiority of their operating system? If you&amp;rsquo;re looking for an alternative that offers a unique set of advantages, Linux might be the answer you&amp;rsquo;ve been searching for. In this post, we&amp;rsquo;ll explore the best attributes of using Linux over Windows and macOS.
+Freedom and Open Source Philosophy: Linux is built on the principles of open source software, which means that anyone can view, modify, and distribute its source code.</description>
+    </item>
+    
+    <item>
+      <title>Navigating the Uncharted Waters of Universal Blue</title>
+      <link>https://new-linux-user.streamers.city/blog/ublue/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/blog/ublue/</guid>
+      <description>Introduction As a newcomer to the vast universe of Linux, I&amp;#39;ve often found myself feeling like a voyager lost at sea, struggling to decipher the complexities and intricacies that this open-source world entails. My knowledge and skills are admittedly limited, and my ability to articulate the technical nuances of Universal Blue (U-Blue) remains far from realization. However, despite my novice status, I can unequivocally share my profound impressions of the performance, stability, and transformative aura that U-Blue brings to Fedora Silverblue.</description>
+    </item>
+    
+    <item>
+      <title>Resolving Zoom Screen Sharing and Custom Backgrounds</title>
+      <link>https://new-linux-user.streamers.city/blog/flatseal/</link>
+      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/blog/flatseal/</guid>
+      <description>If you&amp;#39;ve found your way here, you might be facing the same challenges I did with Zoom on Linux. Don&amp;#39;t worry; I&amp;#39;ve got the perfect solution for you, and it&amp;#39;s called Flatseal. This incredible tool not only resolved my Zoom screen sharing and custom background issues but also made configuring applications from Flathub a breeze.
+The Quest to Optimize Zoom on Linux As a tech enthusiast who frequently relies on Zoom for meetings and collaboration, I encountered two significant hurdles when using the Flatpak version of Zoom.</description>
+    </item>
+    
+    <item>
+      <title>Learning Linux</title>
+      <link>https://new-linux-user.streamers.city/blog/about/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://new-linux-user.streamers.city/blog/about/</guid>
+      <description>Switching To Linux Switching to Linux has been an incredible journey for me, and it&amp;#39;s been full of valuable experiences and encounters with the Linux community. While it&amp;#39;s true that the Linux community can be quite opinionated at times, especially among the Arch base enthusiasts, I&amp;#39;ve also found that it&amp;#39;s a place where you can discover a wealth of knowledge and connect with people who are eager to help you learn and solve problems.</description>
+    </item>
+    
+  </channel>
+</rss>
