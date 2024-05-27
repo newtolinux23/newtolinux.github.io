@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mautic on New Linux User</title>
-    <link>https://new-linux-user.streamers.city/tags/mautic/</link>
-    <description>Recent content in mautic on New Linux User</description>
+    <title>mautic on New To Linux</title>
+    <link>https://newtolinux.innovateiqtech.net/tags/mautic/</link>
+    <description>Recent content in mautic on New To Linux</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://new-linux-user.streamers.city/tags/mautic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://newtolinux.innovateiqtech.net/tags/mautic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mautic install Proxmox</title>
-      <link>https://new-linux-user.streamers.city/blog/mautic/</link>
+      <link>https://newtolinux.innovateiqtech.net/blog/mautic/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://new-linux-user.streamers.city/blog/mautic/</guid>
+      <guid>https://newtolinux.innovateiqtech.net/blog/mautic/</guid>
       <description> Proxmox Alpine container
 Docker and Docker-Compose Run the following commands one at a time.
 $ apk add docker.io docker-compose $ rc-update add docker boot $ service docker start Docker-Compose Template Access your new Mautic http://localhost:8893
