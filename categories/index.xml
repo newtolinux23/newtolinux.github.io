@@ -4,6 +4,8 @@
     <title>Categories on New To Linux</title>
     <link>https://newtolinux.innovateiqtech.net/categories/</link>
     <description>Recent content in Categories on New To Linux</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://newtolinux.innovateiqtech.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://newtolinux.innovateiqtech.net/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

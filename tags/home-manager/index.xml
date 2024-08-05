@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home-Manager on New To Linux</title>
+    <link>https://newtolinux.innovateiqtech.net/tags/home-manager/</link>
+    <description>Recent content in Home-Manager on New To Linux</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://newtolinux.innovateiqtech.net/tags/home-manager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summary of Home Manager and NixOS Issues and Solutions</title>
+      <link>https://newtolinux.innovateiqtech.net/blog/home_manager_issues/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://newtolinux.innovateiqtech.net/blog/home_manager_issues/</guid>
+      <description>Table of Contents Introduction Setup and Configuration Dealing with Permissions Managing Doom Emacs Konsole Theme Summary Introduction This document summarizes the steps taken to configure Home Manager on NixOS, manage Doom Emacs, and solve various issues encountered during the setup.&#xA;Setup and Configuration Edited home.nix to include necessary packages and configurations. Configured paths for Emacs and Doom Emacs. Added Konsole theme configuration. Dealing with Permissions Adjusted permissions for the ~/.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,30 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>terminal on New To Linux</title>
+    <title>Terminal on New To Linux</title>
     <link>https://newtolinux.innovateiqtech.net/tags/terminal/</link>
-    <description>Recent content in terminal on New To Linux</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://newtolinux.innovateiqtech.net/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Terminal on New To Linux</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://newtolinux.innovateiqtech.net/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summary of Home Manager and NixOS Issues and Solutions</title>
+      <link>https://newtolinux.innovateiqtech.net/blog/home_manager_issues/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://newtolinux.innovateiqtech.net/blog/home_manager_issues/</guid>
+      <description>Table of Contents Introduction Setup and Configuration Dealing with Permissions Managing Doom Emacs Konsole Theme Summary Introduction This document summarizes the steps taken to configure Home Manager on NixOS, manage Doom Emacs, and solve various issues encountered during the setup.&#xA;Setup and Configuration Edited home.nix to include necessary packages and configurations. Configured paths for Emacs and Doom Emacs. Added Konsole theme configuration. Dealing with Permissions Adjusted permissions for the ~/.</description>
+    </item>
     <item>
       <title>Linux commands for dummies</title>
       <link>https://newtolinux.innovateiqtech.net/blog/linux_commands_for_dummies/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://newtolinux.innovateiqtech.net/blog/linux_commands_for_dummies/</guid>
-      <description>Introduction Linux is a versatile operating system embraced by users ranging from new learners to seasoned professionals. For beginners, mastering the command line interface (CLI) is a pivotal step towards harnessing the full potential of Linux. This article introduces the most fundamental and crucial Linux commands that every novice should learn. Navigating the File System ** pwd (Print Working Directory). Displays the current directory path.
-ls (List) Lists files and directories.</description>
+      <description>Introduction Linux is a versatile operating system embraced by users ranging from new learners to seasoned professionals. For beginners, mastering the command line interface (CLI) is a pivotal step towards harnessing the full potential of Linux. This article introduces the most fundamental and crucial Linux commands that every novice should learn. Navigating the File System ** pwd (Print Working Directory). Displays the current directory path.&#xA;ls (List) Lists files and directories.</description>
     </item>
-    
     <item>
       <title>Resolving Zoom Screen Sharing and Custom Backgrounds</title>
       <link>https://newtolinux.innovateiqtech.net/blog/flatseal/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://newtolinux.innovateiqtech.net/blog/flatseal/</guid>
-      <description>If you&amp;#39;ve found your way here, you might be facing the same challenges I did with Zoom on Linux. Don&amp;#39;t worry; I&amp;#39;ve got the perfect solution for you, and it&amp;#39;s called Flatseal. This incredible tool not only resolved my Zoom screen sharing and custom background issues but also made configuring applications from Flathub a breeze.
-The Quest to Optimize Zoom on Linux As a tech enthusiast who frequently relies on Zoom for meetings and collaboration, I encountered two significant hurdles when using the Flatpak version of Zoom.</description>
+      <description>If you&amp;#39;ve found your way here, you might be facing the same challenges I did with Zoom on Linux. Don&amp;#39;t worry; I&amp;#39;ve got the perfect solution for you, and it&amp;#39;s called Flatseal. This incredible tool not only resolved my Zoom screen sharing and custom background issues but also made configuring applications from Flathub a breeze.&#xA;The Quest to Optimize Zoom on Linux As a tech enthusiast who frequently relies on Zoom for meetings and collaboration, I encountered two significant hurdles when using the Flatpak version of Zoom.</description>
     </item>
-    
   </channel>
 </rss>

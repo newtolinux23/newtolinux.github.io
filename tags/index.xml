@@ -4,295 +4,240 @@
     <title>Tags on New To Linux</title>
     <link>https://newtolinux.innovateiqtech.net/tags/</link>
     <description>Recent content in Tags on New To Linux</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://newtolinux.innovateiqtech.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://newtolinux.innovateiqtech.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>linux</title>
-      <link>https://newtolinux.innovateiqtech.net/tags/linux/</link>
-      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://newtolinux.innovateiqtech.net/tags/linux/</guid>
+      <title>Home-Manager</title>
+      <link>https://newtolinux.innovateiqtech.net/tags/home-manager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://newtolinux.innovateiqtech.net/tags/home-manager/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>terminal</title>
+      <title>Nixos</title>
+      <link>https://newtolinux.innovateiqtech.net/tags/nixos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://newtolinux.innovateiqtech.net/tags/nixos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Terminal</title>
       <link>https://newtolinux.innovateiqtech.net/tags/terminal/</link>
-      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/terminal/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>workflow</title>
+      <title>Linux</title>
+      <link>https://newtolinux.innovateiqtech.net/tags/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://newtolinux.innovateiqtech.net/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workflow</title>
       <link>https://newtolinux.innovateiqtech.net/tags/workflow/</link>
-      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/workflow/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>artificial-intelligence</title>
-      <link>https://newtolinux.innovateiqtech.net/tags/artificial-intelligence/</link>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://newtolinux.innovateiqtech.net/tags/artificial-intelligence/</guid>
+      <title>AI</title>
+      <link>https://newtolinux.innovateiqtech.net/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://newtolinux.innovateiqtech.net/tags/ai/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>command-line</title>
+      <title>Command-Line</title>
       <link>https://newtolinux.innovateiqtech.net/tags/command-line/</link>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/command-line/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ubuntu</title>
+      <title>Ubuntu</title>
       <link>https://newtolinux.innovateiqtech.net/tags/ubuntu/</link>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/ubuntu/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>open-source</title>
+      <title>Open-Source</title>
       <link>https://newtolinux.innovateiqtech.net/tags/open-source/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/open-source/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>privacy</title>
+      <title>Privacy</title>
       <link>https://newtolinux.innovateiqtech.net/tags/privacy/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/privacy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>proxmox</title>
+      <title>Proxmox</title>
       <link>https://newtolinux.innovateiqtech.net/tags/proxmox/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/proxmox/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>self-hosted</title>
-      <link>https://newtolinux.innovateiqtech.net/tags/self-hosted/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://newtolinux.innovateiqtech.net/tags/self-hosted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>doom-emacs</title>
+      <title>Doom-Emacs</title>
       <link>https://newtolinux.innovateiqtech.net/tags/doom-emacs/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/doom-emacs/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>org-mode</title>
+      <title>Org-Mode</title>
       <link>https://newtolinux.innovateiqtech.net/tags/org-mode/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/org-mode/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>alpine-linux</title>
+      <title>Alpine-Linux</title>
       <link>https://newtolinux.innovateiqtech.net/tags/alpine-linux/</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/alpine-linux/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mautic</title>
+      <title>Mautic</title>
       <link>https://newtolinux.innovateiqtech.net/tags/mautic/</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/mautic/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>smart-home</title>
+      <title>Smart-Home</title>
       <link>https://newtolinux.innovateiqtech.net/tags/smart-home/</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/smart-home/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>virtual-assistant</title>
+      <title>Virtual-Assistant</title>
       <link>https://newtolinux.innovateiqtech.net/tags/virtual-assistant/</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/virtual-assistant/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>security</title>
+      <title>Security</title>
       <link>https://newtolinux.innovateiqtech.net/tags/security/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/security/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>stability</title>
+      <title>Stability</title>
       <link>https://newtolinux.innovateiqtech.net/tags/stability/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/stability/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>GNOME</title>
       <link>https://newtolinux.innovateiqtech.net/tags/gnome/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/gnome/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>linux-kernel</title>
+      <title>Linux-Kernel</title>
       <link>https://newtolinux.innovateiqtech.net/tags/linux-kernel/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/linux-kernel/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Rapsberry-Pi</title>
       <link>https://newtolinux.innovateiqtech.net/tags/rapsberry-pi/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/rapsberry-pi/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Wayland</title>
       <link>https://newtolinux.innovateiqtech.net/tags/wayland/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/wayland/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>custom-images</title>
+      <title>Custom-Images</title>
       <link>https://newtolinux.innovateiqtech.net/tags/custom-images/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/custom-images/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>fedora-silverblue</title>
+      <title>Fedora-Silverblue</title>
       <link>https://newtolinux.innovateiqtech.net/tags/fedora-silverblue/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/fedora-silverblue/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>flatpacks</title>
+      <title>Flatpacks</title>
       <link>https://newtolinux.innovateiqtech.net/tags/flatpacks/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/flatpacks/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>inmutable-distros</title>
+      <title>Inmutable-Distros</title>
       <link>https://newtolinux.innovateiqtech.net/tags/inmutable-distros/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/inmutable-distros/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>network</title>
+      <title>Network</title>
       <link>https://newtolinux.innovateiqtech.net/tags/network/</link>
-      <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/network/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hugo</title>
+      <title>Hugo</title>
       <link>https://newtolinux.innovateiqtech.net/tags/hugo/</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/hugo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dns</title>
+      <title>Dns</title>
       <link>https://newtolinux.innovateiqtech.net/tags/dns/</link>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/dns/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pi-hole</title>
+      <title>Pi-Hole</title>
       <link>https://newtolinux.innovateiqtech.net/tags/pi-hole/</link>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/pi-hole/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ssh</title>
+      <title>Ssh</title>
       <link>https://newtolinux.innovateiqtech.net/tags/ssh/</link>
-      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/ssh/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>virtual-machines</title>
+      <title>Virtual-Machines</title>
       <link>https://newtolinux.innovateiqtech.net/tags/virtual-machines/</link>
-      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://newtolinux.innovateiqtech.net/tags/virtual-machines/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

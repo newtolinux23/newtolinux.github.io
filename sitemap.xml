@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://newtolinux.innovateiqtech.net/blog/</loc>
-    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://newtolinux.innovateiqtech.net/tags/home-manager/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://newtolinux.innovateiqtech.net/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://newtolinux.innovateiqtech.net/tags/nixos/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://newtolinux.innovateiqtech.net/blog/home_manager_issues/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://newtolinux.innovateiqtech.net/tags/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://newtolinux.innovateiqtech.net/tags/terminal/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://newtolinux.innovateiqtech.net/tags/linux/</loc>
     <lastmod>2024-05-23T00:00:00+00:00</lastmod>
@@ -11,19 +29,10 @@
     <loc>https://newtolinux.innovateiqtech.net/blog/linux_commands_for_dummies/</loc>
     <lastmod>2024-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://newtolinux.innovateiqtech.net/</loc>
-    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://newtolinux.innovateiqtech.net/tags/</loc>
-    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://newtolinux.innovateiqtech.net/tags/terminal/</loc>
-    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://newtolinux.innovateiqtech.net/tags/workflow/</loc>
     <lastmod>2024-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://newtolinux.innovateiqtech.net/tags/artificial-intelligence/</loc>
+    <loc>https://newtolinux.innovateiqtech.net/tags/ai/</loc>
     <lastmod>2024-01-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://newtolinux.innovateiqtech.net/tags/command-line/</loc>
@@ -48,9 +57,6 @@
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://newtolinux.innovateiqtech.net/tags/proxmox/</loc>
-    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://newtolinux.innovateiqtech.net/tags/self-hosted/</loc>
     <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://newtolinux.innovateiqtech.net/tags/doom-emacs/</loc>
